@@ -1,7 +1,7 @@
 {
   "Record": {
     
-    "num_accidents": {"int": {"min": 0, "max": 10}},
+    "numAccidents": {"int": {"min": 0, "max": 10}},
     "safe": {"boolean": {}}
 
   }
