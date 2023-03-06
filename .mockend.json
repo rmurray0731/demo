@@ -1,8 +1,6 @@
 {
   "Record": {
-    "_": {
-      "data": [{"dl_num": "M68686"}]
-    },
+    
     "num_accidents": {"int": {"min": 0, "max": 10}},
     "safe": {"boolean": {}}
 
